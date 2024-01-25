@@ -14,7 +14,7 @@ exibirMesnagemInicial();
 
 function exibirMesnagemInicial() {
     exibirTextoNaTela('h1', 'Jogo do número Secreto');
-    exibirTextoNaTela(`p', 'Escolha um número entre 1 e ${numeroLimite}`);
+    exibirTextoNaTela(`p', 'Escolha um númeeero entre 1 e ${numeroLimite}`);
 }
 
 function verificarChute() {
